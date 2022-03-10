@@ -21,7 +21,7 @@ import com.nopcommerce_V5.utlities.XlsUtils;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseLibrary {
-
+// Data is data
 	public ReadConfig readConfig;
 	public WebDriver driver;
 	public Logger logger;
